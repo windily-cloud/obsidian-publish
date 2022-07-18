@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as t,c as o,a as s}from"./app.f33a7870.js";const c={},n=s("p",null,"This is new content",-1),_=[n];function r(a,l){return t(),o("div",null,_)}var m=e(c,[["render",r],["__file","test.html.vue"]]);export{m as default};
