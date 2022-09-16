@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://vuepress-theme-hope-v2-demo.mrhope.site/obsidian-publish/sitemap.xml
+Sitemap: https://windily-cloud.github.io/sitemap.xml
