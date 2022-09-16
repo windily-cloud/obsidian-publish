@@ -1,5 +1,5 @@
 ---
-title: 主要功能与配置演示
+title: Publish演示
 index: false
 icon: creative
 category:
