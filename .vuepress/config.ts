@@ -6,7 +6,7 @@ export default defineUserConfig({
   title: "Windily Cloud",
   description: "Windily Cloud's Blog",
 
-  base: "/",
+  base: "/obsidian-publish/",
 
   theme,
 });
