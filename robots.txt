@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://windily-cloud.github.io/sitemap.xml
+Sitemap: https://windily-cloud.github.io/obsidian-publish/sitemap.xml
