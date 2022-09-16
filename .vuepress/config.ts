@@ -8,5 +8,10 @@ export default defineUserConfig({
 
   base: "/obsidian-publish/",
 
+  markdown: {
+    headers: {
+      level: [1,2,3]
+    }
+  },
   theme,
 });
