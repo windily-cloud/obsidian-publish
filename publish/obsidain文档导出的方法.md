@@ -3,6 +3,7 @@ title: obsidain文档导出的方法
 tags: 
 mtime: 2022-09-16
 ctime: 2022-09-16
+share: true
 ---
 
 # md文档导出的方式类型
