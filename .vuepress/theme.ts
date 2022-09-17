@@ -25,7 +25,7 @@ export default hopeTheme({
   sidebar: sidebar,
 
 
-  footer: "默认页脚",
+  footer: "什么是幸褔？ 幸福就是猫吃鱼狗吃肉，奥特曼打小怪兽！",
 
   displayFooter: true,
 
