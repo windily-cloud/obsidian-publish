@@ -33,12 +33,12 @@ function generateSidebar(docAbsolutePath: string): any {
 }
 
 const sidebar = [{
-  text: "obsidian vault",
-  prefix: "/publish",
+  text: "Vault",
+  prefix: "/Publish",
   collapse: false,
   link: "/",
   icon: "folder",
-  children: generateSidebar(path.join(__dirname, `../publish`))
+  children: generateSidebar(path.join(__dirname, `../Publish`))
 }]
 
 

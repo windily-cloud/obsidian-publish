@@ -16,7 +16,7 @@ export default hopeTheme({
 
   repo: "windily-cloud/obsidian-publish",
 
-  docsDir: "publish/",
+  docsDir: "Publish/",
 
   // navbar
   navbar: navbar,
